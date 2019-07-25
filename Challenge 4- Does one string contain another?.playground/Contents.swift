@@ -17,4 +17,4 @@ extension String{
     }
 }
 let str = "hello world"
-str.fuzzyContains(input: "WoRl")
+str.fuzzyContains(input: "Hello")
